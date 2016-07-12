@@ -1,9 +1,9 @@
 # pAGDT
-A PDT2.0-compatible version of Perseus' Ancient Greek Dependency Treebank
+A PDT2.0-compatible version of Perseus' [Ancient Greek Dependency Treebank](https://perseusdl.github.io/treebank_data/).
 
 # How to use it
 
-If you want to browse the trees using [TrEd](https://ufal.mff.cuni.cz/tred/), just make sure to copy the XML schema files in a folder where the software can find them (bottom line, put them in the same directory as the data). At the moment, I am just using the standard PDT schemas, so you might already have them installed in your computer; you have them, for example, if you downloaded the PDT2.0 extension for TrEd.
+If you want to browse the trees using [TrEd](https://ufal.mff.cuni.cz/tred/), just make sure to copy the XML schema files in a folder where the software can find them (bottom line, put them in the same directory as the data). At the moment, I am just using the standard PDT schemas (which can be also dowloaded from [here](https://ufal.mff.cuni.cz/jazz/PML/index_en.html)), so you might already have them installed in your computer; for example, if you downloaded the PDT2.0 extension for TrEd then you already have them.
 
 # πAGDT or pAGDT?
 πAGDT is the official brand. I prefer π (it's more evocative, don't you think?). But GitHub didn't like the non-asci character in the repository's name, so I guess I'll have to live with both versions...
