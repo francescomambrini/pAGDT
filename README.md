@@ -16,4 +16,4 @@ If you want to browse the trees using [TrEd](https://ufal.mff.cuni.cz/tred/), ju
 
 At the moment, πAGDT uses v. 2.0 of the AGDT. 
 
-The AGDT is released under a [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/us/) license. The same licence [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/us/) applies for the data of the πAGDT.
+The AGDT is released under a [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/us/) license. The same license [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/us/) applies for the data of the πAGDT.
